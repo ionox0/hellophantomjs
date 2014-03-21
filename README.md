@@ -3,4 +3,4 @@ hellophantomjs
 
 uasge: 
 
-phantomjs loadspeed.js <website url>
+    phantomjs loadspeed.js <website url>
